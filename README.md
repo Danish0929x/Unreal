@@ -7,5 +7,5 @@ In today’s life we prefer learning our concepts in a practical way instead of 
 
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](./images/proto-1.jpg)
 
